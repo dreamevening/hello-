@@ -2,4 +2,4 @@
 a basic introduction 
 a basic introuduction to branch 
 
-the
+the basic introduction to git
